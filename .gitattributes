@@ -1,0 +1,3 @@
+# o manifesto é assinado byte a byte: o git não pode mexer no fim de linha
+*.json -text
+*.sig -text

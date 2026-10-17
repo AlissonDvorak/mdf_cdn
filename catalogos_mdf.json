@@ -1,0 +1,54 @@
+{
+  "versao_manifesto": 4,
+  "fabricantes": [
+    {
+      "id": "ld_arauco",
+      "nome": "Arauco",
+      "versao": "2026.10.17",
+      "descricao": "Padrões novos: Coleção Realce, Cores, Madeiras, Madeiras Brasileiras, Metais, Pedras, Tecidos",
+      "qtd_padroes": 52,
+      "tamanho_mb": 10.2,
+      "tamanho_bytes": 10223690,
+      "arquivos": 54,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17/ld_arauco.zip",
+      "sha256": "5e6d780df145825270147ff486af005b1f2eb8bd6de05253c96dcc4d05bf50fc",
+      "linhas": [
+        "Coleção Realce",
+        "Cores",
+        "Madeiras",
+        "Madeiras Brasileiras",
+        "Metais",
+        "Pedras",
+        "Tecidos"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_duratex",
+      "nome": "Duratex",
+      "versao": "2026.10.17",
+      "descricao": "Padrões novos: Acetinatta, Design, Duratex You, Essencial, Essencial Wood, Prisma, Sense, Thera, Trama, Velluto",
+      "qtd_padroes": 55,
+      "tamanho_mb": 14.2,
+      "tamanho_bytes": 14203520,
+      "arquivos": 57,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17/ld_duratex.zip",
+      "sha256": "eaf4325f2b58c4115f38c6622be37aaad030020ebfb43c0662695e9a02ceed4f",
+      "linhas": [
+        "Acetinatta",
+        "Design",
+        "Duratex You",
+        "Essencial",
+        "Essencial Wood",
+        "Prisma",
+        "Sense",
+        "Thera",
+        "Trama",
+        "Velluto"
+      ],
+      "fonte": "2026-10-17"
+    }
+  ],
+  "data_atualizacao": "2026-10-17",
+  "repositorio": "https://github.com/AlissonDvorak/mdf_cdn"
+}
