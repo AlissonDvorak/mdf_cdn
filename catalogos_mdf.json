@@ -1,5 +1,5 @@
 {
-  "versao_manifesto": 4,
+  "versao_manifesto": 5,
   "fabricantes": [
     {
       "id": "ld_arauco",
@@ -24,16 +24,39 @@
       "fonte": "2026-10-17"
     },
     {
+      "id": "ld_berneck",
+      "nome": "Berneck",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Linha Alumi, Linha Design, Linha Grann, Linha Micro, Linha Rust, Linha Tatto, Linha Tx, Linha Vel",
+      "qtd_padroes": 53,
+      "tamanho_mb": 12.6,
+      "tamanho_bytes": 12636879,
+      "arquivos": 55,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_berneck.zip",
+      "sha256": "5dc69bf281431033e4f81c884e0146331896635093437c3a0bf243e6a5aa61e7",
+      "linhas": [
+        "Linha Alumi",
+        "Linha Design",
+        "Linha Grann",
+        "Linha Micro",
+        "Linha Rust",
+        "Linha Tatto",
+        "Linha Tx",
+        "Linha Vel"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
       "id": "ld_duratex",
       "nome": "Duratex",
-      "versao": "2026.10.17",
+      "versao": "2026.10.17.2",
       "descricao": "Padrões novos: Acetinatta, Design, Duratex You, Essencial, Essencial Wood, Prisma, Sense, Thera, Trama, Velluto",
       "qtd_padroes": 55,
       "tamanho_mb": 14.2,
-      "tamanho_bytes": 14203520,
+      "tamanho_bytes": 14205730,
       "arquivos": 57,
-      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17/ld_duratex.zip",
-      "sha256": "eaf4325f2b58c4115f38c6622be37aaad030020ebfb43c0662695e9a02ceed4f",
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_duratex.zip",
+      "sha256": "ace5773bb99700a83aa65430508827498d0da9f1ef63dc0bbc0e1f1fd80e1125",
       "linhas": [
         "Acetinatta",
         "Design",
@@ -45,6 +68,143 @@
         "Thera",
         "Trama",
         "Velluto"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_eucatex",
+      "nome": "Eucatex",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: BP Grafis, BP Matt Soft, BP Natural Wood, BP Poro Supermatt, BP Raízes, BP TX Premium, Lacca AD, Perffect One, Perffect Touch, Perffect Wood",
+      "qtd_padroes": 87,
+      "tamanho_mb": 31.8,
+      "tamanho_bytes": 31756425,
+      "arquivos": 89,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_eucatex.zip",
+      "sha256": "077549c595c2ccec9c6bca727798867d3b5cbb2d66c197f91cc02ed85abe9501",
+      "linhas": [
+        "BP Grafis",
+        "BP Matt Soft",
+        "BP Natural Wood",
+        "BP Poro Supermatt",
+        "BP Raízes",
+        "BP TX Premium",
+        "Lacca AD",
+        "Perffect One",
+        "Perffect Touch",
+        "Perffect Wood"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_fibraplac",
+      "nome": "Fibraplac",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Conceito, Essencial, Origens, Sensações, Versátil",
+      "qtd_padroes": 23,
+      "tamanho_mb": 3.2,
+      "tamanho_bytes": 3155760,
+      "arquivos": 25,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_fibraplac.zip",
+      "sha256": "956e03297c9e319ac474cb640321ad522ed5ac8e9ed8a55e84f5d8ae28c654c7",
+      "linhas": [
+        "Conceito",
+        "Essencial",
+        "Origens",
+        "Sensações",
+        "Versátil"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_flora",
+      "nome": "Flora",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Charm, Colors, Connection, Elo, Instantes da Floresta, Sutilezas da Amazônia, Unique",
+      "qtd_padroes": 35,
+      "tamanho_mb": 8.8,
+      "tamanho_bytes": 8820206,
+      "arquivos": 37,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_flora.zip",
+      "sha256": "2a403e1dc7d5c9a9ea9585357d7bd153a99451e9cbe6fab85964d5483e77d401",
+      "linhas": [
+        "Charm",
+        "Colors",
+        "Connection",
+        "Elo",
+        "Instantes da Floresta",
+        "Sutilezas da Amazônia",
+        "Unique"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_greenplac",
+      "nome": "Greenplac",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Clássicos, Colore, Decore, Essenziale, Matiz, MDF Green, Natural, Texture",
+      "qtd_padroes": 49,
+      "tamanho_mb": 2.1,
+      "tamanho_bytes": 2136749,
+      "arquivos": 51,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_greenplac.zip",
+      "sha256": "50f2127a6c06046ab89f02e058e98c5ff327350c2d8981504339ac6aa7a615b1",
+      "linhas": [
+        "Clássicos",
+        "Colore",
+        "Decore",
+        "Essenziale",
+        "Matiz",
+        "MDF Green",
+        "Natural",
+        "Texture"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_guararapes",
+      "nome": "Guararapes",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Áris, Colors, Comfort, Dual Syncro, Flex, Madeiras do Brasil, Madeiras do Mundo, Madeiras Geométricas, Magma, Metalic, Outros, Perspectivas",
+      "qtd_padroes": 58,
+      "tamanho_mb": 18.9,
+      "tamanho_bytes": 18865256,
+      "arquivos": 60,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_guararapes.zip",
+      "sha256": "847930c9f0490f66f14c0709af1f7374da922665ae9e8fa55f07a2bb84311ff3",
+      "linhas": [
+        "Áris",
+        "Colors",
+        "Comfort",
+        "Dual Syncro",
+        "Flex",
+        "Madeiras do Brasil",
+        "Madeiras do Mundo",
+        "Madeiras Geométricas",
+        "Magma",
+        "Metalic",
+        "Outros",
+        "Perspectivas"
+      ],
+      "fonte": "2026-10-17"
+    },
+    {
+      "id": "ld_sudati",
+      "nome": "Sudati",
+      "versao": "2026.10.17.2",
+      "descricao": "Padrões novos: Atma, Eleva, Naturally, Soul, TX",
+      "qtd_padroes": 38,
+      "tamanho_mb": 11.3,
+      "tamanho_bytes": 11295152,
+      "arquivos": 40,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_sudati.zip",
+      "sha256": "d03cdbdfdde0d48c4a340c92fc812f8a04838728c401278cf850c7d843e9e15d",
+      "linhas": [
+        "Atma",
+        "Eleva",
+        "Naturally",
+        "Soul",
+        "TX"
       ],
       "fonte": "2026-10-17"
     }
