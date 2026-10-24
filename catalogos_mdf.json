@@ -1,5 +1,5 @@
 {
-  "versao_manifesto": 5,
+  "versao_manifesto": 6,
   "fabricantes": [
     {
       "id": "ld_arauco",
@@ -49,14 +49,14 @@
     {
       "id": "ld_duratex",
       "nome": "Duratex",
-      "versao": "2026.10.17.2",
+      "versao": "2026.10.24",
       "descricao": "Padrões novos: Acetinatta, Design, Duratex You, Essencial, Essencial Wood, Prisma, Sense, Thera, Trama, Velluto",
-      "qtd_padroes": 55,
-      "tamanho_mb": 14.2,
-      "tamanho_bytes": 14205730,
-      "arquivos": 57,
-      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.17.2/ld_duratex.zip",
-      "sha256": "ace5773bb99700a83aa65430508827498d0da9f1ef63dc0bbc0e1f1fd80e1125",
+      "qtd_padroes": 58,
+      "tamanho_mb": 14.4,
+      "tamanho_bytes": 14409165,
+      "arquivos": 60,
+      "url_zip": "https://github.com/AlissonDvorak/mdf_cdn/releases/download/v2026.10.24/ld_duratex.zip",
+      "sha256": "766c3e9cac57aaaf6eb066f2a8c1daf36addfa2a6f246275ef316344612ba112",
       "linhas": [
         "Acetinatta",
         "Design",
@@ -69,7 +69,7 @@
         "Trama",
         "Velluto"
       ],
-      "fonte": "2026-10-17"
+      "fonte": "2026-10-24"
     },
     {
       "id": "ld_eucatex",
@@ -209,6 +209,6 @@
       "fonte": "2026-10-17"
     }
   ],
-  "data_atualizacao": "2026-10-17",
+  "data_atualizacao": "2026-10-24",
   "repositorio": "https://github.com/AlissonDvorak/mdf_cdn"
 }
